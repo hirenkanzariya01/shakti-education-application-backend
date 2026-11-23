@@ -1,0 +1,10 @@
+node_modules
+test
+docs
+.env
+.env.*
+!.env.example
+*.md
+state.json
+.git
+Dockerfile

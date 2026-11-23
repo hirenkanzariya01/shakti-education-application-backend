@@ -1,0 +1,42 @@
+[
+  {
+    "id": "live-001",
+    "courseId": "course-web-development",
+    "title": "CSS Grid Workshop",
+    "instructor": "Rohan Mehta",
+    "startsAt": "2026-11-05T11:00:00+05:30",
+    "durationMinutes": 60,
+    "meetingUrl": "https://meet.example.com/shakti-css-grid",
+    "description": "Hands-on session building responsive layouts with CSS Grid."
+  },
+  {
+    "id": "live-002",
+    "courseId": "course-graphic-design",
+    "title": "Logo Design Masterclass",
+    "instructor": "Meera Joshi",
+    "startsAt": "2026-11-06T16:00:00+05:30",
+    "durationMinutes": 90,
+    "meetingUrl": "https://meet.example.com/shakti-logo-design",
+    "description": "Sketch to vector: designing a brand logo step by step."
+  },
+  {
+    "id": "live-003",
+    "courseId": "course-ai-ml",
+    "title": "Doubt Clearing: Python for ML",
+    "instructor": "Dr. Anita Desai",
+    "startsAt": "2026-11-07T18:00:00+05:30",
+    "durationMinutes": 45,
+    "meetingUrl": "https://meet.example.com/shakti-python-ml",
+    "description": "Open Q&A session on Python, NumPy and Pandas."
+  },
+  {
+    "id": "live-004",
+    "courseId": "course-digital-marketing",
+    "title": "SEO Audit Live Demo",
+    "instructor": "Neha Sharma",
+    "startsAt": "2026-11-02T15:00:00+05:30",
+    "durationMinutes": 60,
+    "meetingUrl": "https://meet.example.com/shakti-seo-audit",
+    "description": "A live walkthrough of auditing a sample website for SEO issues."
+  }
+]

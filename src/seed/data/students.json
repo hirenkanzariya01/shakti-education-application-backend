@@ -1,0 +1,38 @@
+[
+  {
+    "id": "student-001",
+    "name": "Aarav Patel",
+    "email": "aarav@example.com",
+    "phone": "9000000001",
+    "password": "Demo@1234",
+    "city": "Ahmedabad",
+    "dob": "2002-05-14",
+    "avatar": null,
+    "joinedOn": "2026-06-10",
+    "enrolledCourseIds": ["course-web-development", "course-graphic-design"]
+  },
+  {
+    "id": "student-002",
+    "name": "Diya Shah",
+    "email": "diya@example.com",
+    "phone": "9000000002",
+    "password": "Demo@1234",
+    "city": "Gandhinagar",
+    "dob": "2001-11-02",
+    "avatar": null,
+    "joinedOn": "2026-07-01",
+    "enrolledCourseIds": ["course-digital-marketing"]
+  },
+  {
+    "id": "student-003",
+    "name": "Kabir Mehta",
+    "email": "kabir@example.com",
+    "phone": "9000000003",
+    "password": "Demo@1234",
+    "city": "Surat",
+    "dob": "2000-08-21",
+    "avatar": null,
+    "joinedOn": "2026-08-18",
+    "enrolledCourseIds": ["course-ai-ml", "course-data-analytics"]
+  }
+]

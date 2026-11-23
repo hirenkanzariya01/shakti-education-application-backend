@@ -1,0 +1,20 @@
+{
+  "student-001": {
+    "completed": {
+      "lesson-wd-1": "2026-10-01T10:00:00+05:30",
+      "lesson-wd-2": "2026-10-03T10:00:00+05:30",
+      "lesson-gd-1": "2026-10-06T10:00:00+05:30"
+    },
+    "lastLessonId": "lesson-gd-1"
+  },
+  "student-002": {
+    "completed": {
+      "lesson-dm-1": "2026-10-02T10:00:00+05:30"
+    },
+    "lastLessonId": "lesson-dm-1"
+  },
+  "student-003": {
+    "completed": {},
+    "lastLessonId": null
+  }
+}

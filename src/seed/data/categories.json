@@ -1,0 +1,7 @@
+[
+  { "id": "cat-design", "name": "Design & Creative", "icon": "color-palette-outline", "courseCount": 2 },
+  { "id": "cat-development", "name": "Web & Software", "icon": "code-slash-outline", "courseCount": 2 },
+  { "id": "cat-ai-data", "name": "AI & Data", "icon": "analytics-outline", "courseCount": 2 },
+  { "id": "cat-marketing", "name": "Digital Marketing", "icon": "megaphone-outline", "courseCount": 1 },
+  { "id": "cat-accounting", "name": "Accounting", "icon": "calculator-outline", "courseCount": 1 }
+]

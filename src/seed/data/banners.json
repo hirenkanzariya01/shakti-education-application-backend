@@ -1,0 +1,5 @@
+[
+  { "id": "banner-001", "title": "Start Your Career in Tech", "subtitle": "Explore Web Development and Full Stack programs", "cta": "Explore Courses", "target": "Courses", "icon": "rocket-outline" },
+  { "id": "banner-002", "title": "Learn Live with Mentors", "subtitle": "Join interactive live classes every week", "cta": "View Live Classes", "target": "LiveClasses", "icon": "videocam-outline" },
+  { "id": "banner-003", "title": "Placement Support", "subtitle": "Sample hiring drives and career guidance", "cta": "See Opportunities", "target": "Placement", "icon": "briefcase-outline" }
+]

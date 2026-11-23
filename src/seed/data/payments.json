@@ -1,0 +1,7 @@
+[
+  { "id": "pay-001", "studentId": "student-001", "courseId": "course-web-development", "title": "Web Development - Instalment 1", "amount": 7500, "date": "2026-06-10", "method": "Demo (simulated)", "status": "Paid", "receiptNo": "DEMO-RCPT-0001" },
+  { "id": "pay-002", "studentId": "student-001", "courseId": "course-web-development", "title": "Web Development - Instalment 2", "amount": 7500, "date": "2026-08-10", "method": "Demo (simulated)", "status": "Paid", "receiptNo": "DEMO-RCPT-0002" },
+  { "id": "pay-003", "studentId": "student-001", "courseId": "course-graphic-design", "title": "Graphic Design - Instalment 1", "amount": 9000, "date": "2026-09-01", "method": "Demo (simulated)", "status": "Paid", "receiptNo": "DEMO-RCPT-0003" },
+  { "id": "pay-004", "studentId": "student-001", "courseId": "course-graphic-design", "title": "Graphic Design - Instalment 2", "amount": 9000, "date": "2026-11-15", "method": null, "status": "Pending", "receiptNo": null },
+  { "id": "pay-005", "studentId": "student-002", "courseId": "course-digital-marketing", "title": "Digital Marketing - Full Fee", "amount": 20000, "date": "2026-07-01", "method": "Demo (simulated)", "status": "Paid", "receiptNo": "DEMO-RCPT-0005" }
+]

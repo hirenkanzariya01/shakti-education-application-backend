@@ -1,0 +1,24 @@
+[
+  { "id": "lesson-gd-1", "courseId": "course-graphic-design", "order": 1, "title": "Principles of Design", "duration": "18 min", "description": "Balance, contrast, alignment and visual hierarchy explained with examples.", "videoUrl": "https://example.com/sample-video/graphic-design-1" },
+  { "id": "lesson-gd-2", "courseId": "course-graphic-design", "order": 2, "title": "Typography Essentials", "duration": "22 min", "description": "Choosing and pairing typefaces for headlines and body text.", "videoUrl": "https://example.com/sample-video/graphic-design-2" },
+  { "id": "lesson-gd-3", "courseId": "course-graphic-design", "order": 3, "title": "Colour Theory for Brands", "duration": "20 min", "description": "Colour wheels, palettes and how colour affects brand perception.", "videoUrl": "https://example.com/sample-video/graphic-design-3" },
+
+  { "id": "lesson-wd-1", "courseId": "course-web-development", "order": 1, "title": "How the Web Works", "duration": "15 min", "description": "Browsers, servers, HTTP and the structure of a web page.", "videoUrl": "https://example.com/sample-video/web-dev-1" },
+  { "id": "lesson-wd-2", "courseId": "course-web-development", "order": 2, "title": "HTML5 Structure and Semantics", "duration": "25 min", "description": "Building clean, accessible page structure with semantic tags.", "videoUrl": "https://example.com/sample-video/web-dev-2" },
+  { "id": "lesson-wd-3", "courseId": "course-web-development", "order": 3, "title": "CSS Flexbox Layouts", "duration": "28 min", "description": "Create flexible, responsive layouts with Flexbox.", "videoUrl": "https://example.com/sample-video/web-dev-3" },
+
+  { "id": "lesson-ml-1", "courseId": "course-ai-ml", "order": 1, "title": "Introduction to AI and ML", "duration": "20 min", "description": "What AI and machine learning are, and where they are used.", "videoUrl": "https://example.com/sample-video/ai-ml-1" },
+  { "id": "lesson-ml-2", "courseId": "course-ai-ml", "order": 2, "title": "Python Setup for Data Science", "duration": "24 min", "description": "Setting up Python, notebooks and essential libraries.", "videoUrl": "https://example.com/sample-video/ai-ml-2" },
+
+  { "id": "lesson-ve-1", "courseId": "course-video-editing", "order": 1, "title": "Editing Workflow Overview", "duration": "16 min", "description": "From importing footage to final export: the complete workflow.", "videoUrl": "https://example.com/sample-video/video-editing-1" },
+  { "id": "lesson-ve-2", "courseId": "course-video-editing", "order": 2, "title": "Cuts, Trims and Transitions", "duration": "23 min", "description": "Pacing your story with clean cuts and purposeful transitions.", "videoUrl": "https://example.com/sample-video/video-editing-2" },
+
+  { "id": "lesson-dm-1", "courseId": "course-digital-marketing", "order": 1, "title": "Digital Marketing Landscape", "duration": "17 min", "description": "Channels, funnels and how businesses grow online.", "videoUrl": "https://example.com/sample-video/digital-marketing-1" },
+  { "id": "lesson-dm-2", "courseId": "course-digital-marketing", "order": 2, "title": "SEO Fundamentals", "duration": "26 min", "description": "Keywords, on-page optimisation and search intent.", "videoUrl": "https://example.com/sample-video/digital-marketing-2" },
+
+  { "id": "lesson-tp-1", "courseId": "course-tally-prime", "order": 1, "title": "Creating a Company in Tally Prime", "duration": "19 min", "description": "Company creation, features and basic configuration.", "videoUrl": "https://example.com/sample-video/tally-prime-1" },
+
+  { "id": "lesson-da-1", "courseId": "course-data-analytics", "order": 1, "title": "Data Cleaning with Excel", "duration": "27 min", "description": "Remove duplicates, fix formats and prepare data for analysis.", "videoUrl": "https://example.com/sample-video/data-analytics-1" },
+
+  { "id": "lesson-fs-1", "courseId": "course-full-stack", "order": 1, "title": "Git and Version Control", "duration": "21 min", "description": "Commits, branches and collaborating with Git.", "videoUrl": "https://example.com/sample-video/full-stack-1" }
+]

@@ -1,0 +1,7 @@
+[
+  { "id": "notif-001", "title": "Live class tomorrow", "message": "CSS Grid Workshop starts tomorrow at 11:00 AM.", "type": "live-class", "createdAt": "2026-11-04T09:00:00+05:30", "read": false },
+  { "id": "notif-002", "title": "New lesson added", "message": "A new lesson was added to Graphic Design: Colour Theory for Brands.", "type": "course", "createdAt": "2026-11-03T14:30:00+05:30", "read": false },
+  { "id": "notif-003", "title": "Fee reminder", "message": "Your Graphic Design instalment 2 is due on 15 Nov 2026.", "type": "payment", "createdAt": "2026-11-02T10:00:00+05:30", "read": false },
+  { "id": "notif-004", "title": "New placement drive", "message": "CodeNest Technologies is hiring front-end trainees. Check Placement Support.", "type": "placement", "createdAt": "2026-11-01T12:00:00+05:30", "read": true },
+  { "id": "notif-005", "title": "Welcome to Shakti", "message": "Welcome! Explore courses and start learning today.", "type": "general", "createdAt": "2026-10-25T09:00:00+05:30", "read": true }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "cert-001",
+    "studentId": "student-001",
+    "courseId": "course-web-development",
+    "title": "Web Development - Sample Certificate",
+    "issuedOn": "2026-10-20",
+    "certificateNo": "SAMPLE-0001",
+    "grade": "A",
+    "isSample": true
+  },
+  {
+    "id": "cert-002",
+    "studentId": "student-002",
+    "courseId": "course-digital-marketing",
+    "title": "Digital Marketing - Sample Certificate",
+    "issuedOn": "2026-10-28",
+    "certificateNo": "SAMPLE-0002",
+    "grade": "A+",
+    "isSample": true
+  },
+  {
+    "id": "cert-003",
+    "studentId": "student-001",
+    "courseId": "course-graphic-design",
+    "title": "Graphic Design Workshop - Sample Certificate",
+    "issuedOn": "2026-09-15",
+    "certificateNo": "SAMPLE-0003",
+    "grade": "B+",
+    "isSample": true
+  }
+]
